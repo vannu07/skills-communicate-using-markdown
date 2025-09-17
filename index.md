@@ -11,6 +11,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 ###### This is an `<h6>` header, which is the smallest
+
 
 
